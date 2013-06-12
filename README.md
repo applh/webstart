@@ -12,19 +12,7 @@ Start a project and build your website!
 <table border="1" cellpadding="1" cellspacing="10" style="height:900px; width:900px">
 	<tbody>
 		<tr>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td>&nbsp;</td>
+			<td>Projects</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
@@ -36,8 +24,8 @@ Start a project and build your website!
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
+			<td>Objectives</td>
+			<td>Actors</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
@@ -48,9 +36,23 @@ Start a project and build your website!
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
+			<td>Media</td>
+			<td>Risks</td>
+			<td>
+			<p>Reports</p>
+			</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Tasks</td>
+			<td>Steps</td>
+			<td>Docs</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
@@ -133,8 +135,6 @@ Start a project and build your website!
 		</tr>
 	</tbody>
 </table>
-
-<p>&nbsp;</p>
 
 ====== KaiZen by CCube ======
 
