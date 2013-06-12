@@ -3,6 +3,7 @@ webstart
 
 Start a project and build your website!
 
+<img src="https://docs.google.com/drawings/d/1IvLvx_fKCyM5IzptBDnAFquSE8X5WwjcXmrGhb6CIN4/pub?w=960&amp;h=720">
 
 ====== KaiZen by CCube ======
 
