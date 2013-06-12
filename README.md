@@ -47,7 +47,7 @@ Start a project and build your website!
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
-			<td>&nbsp;</td>
+			<td>Design</td>
 		</tr>
 		<tr>
 			<td>Tasks</td>
@@ -59,55 +59,55 @@ Start a project and build your website!
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
-			<td>&nbsp;</td>
+			<td>Creation</td>
 		</tr>
 		<tr>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
+			<td>Public</td>
+			<td>Inspiration</td>
+			<td>Concurrents</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
+			<td>Integration</td>
 		</tr>
 		<tr>
+			<td>Pages</td>
+			<td>Navigation</td>
+			<td>Layout</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
+			<td>Validation</td>
 		</tr>
 		<tr>
+			<td>Home</td>
+			<td>Keywords</td>
+			<td>Colors</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
+			<td>Publication</td>
 		</tr>
 		<tr>
+			<td>Form</td>
+			<td>Standards</td>
+			<td>Technos</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
+			<td>Monitoring</td>
 		</tr>
 		<tr>
 			<td>&nbsp;</td>
