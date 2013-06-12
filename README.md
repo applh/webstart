@@ -103,8 +103,8 @@ Start a project and build your website!
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
-			<td>&nbsp;</td>
 			<td>Monitoring</td>
+			<td>&nbsp;</td>
 			<td></td>
 		</tr>
 		<tr>
