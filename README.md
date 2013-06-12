@@ -52,7 +52,7 @@ Start a project and build your website!
 			<td>Steps</td>
 			<td>Docs</td>
 			<td>&nbsp;</td>
-			<td>&nbsp;</td>
+			<td>Public</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>Creation</td>
@@ -63,9 +63,9 @@ Start a project and build your website!
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
-			<td>Public</td>
+			<td></td>
 			<td>Inspiration</td>
-			<td>Concurrents</td>
+			<td></td>
 			<td>&nbsp;</td>
 			<td>Integration</td>
 			<td>&nbsp;</td>
@@ -76,7 +76,7 @@ Start a project and build your website!
 			<td>Navigation</td>
 			<td>Layout</td>
 			<td>&nbsp;</td>
-			<td>&nbsp;</td>
+			<td>Concurrents</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
@@ -104,8 +104,8 @@ Start a project and build your website!
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
-			<td>&nbsp;</td>
 			<td>Monitoring</td>
+			<td></td>
 		</tr>
 		<tr>
 			<td>&nbsp;</td>
