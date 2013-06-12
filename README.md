@@ -44,10 +44,10 @@ Start a project and build your website!
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
 			<td>Design</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>Tasks</td>
@@ -57,9 +57,9 @@ Start a project and build your website!
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
 			<td>Creation</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>&nbsp;</td>
@@ -69,9 +69,9 @@ Start a project and build your website!
 			<td>Inspiration</td>
 			<td>Concurrents</td>
 			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
 			<td>Integration</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>Pages</td>
@@ -82,8 +82,8 @@ Start a project and build your website!
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
-			<td>&nbsp;</td>
 			<td>Validation</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>Home</td>
@@ -94,8 +94,8 @@ Start a project and build your website!
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
-			<td>&nbsp;</td>
 			<td>Publication</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>Form</td>
