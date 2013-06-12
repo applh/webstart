@@ -9,7 +9,7 @@ Start a project and build your website!
 10x10 Grid
 ------
 
-<table border="1" cellpadding="1" cellspacing="10" style="height:900px; width:900px">
+<table border="1" cellpadding="1" cellspacing="10" style="height:900px; width:900px;font-size:12px;">
 	<tbody>
 		<tr>
 			<td>Projects</td>
@@ -38,9 +38,7 @@ Start a project and build your website!
 		<tr>
 			<td>Media</td>
 			<td>Risks</td>
-			<td>
-			<p>Reports</p>
-			</td>
+			<td>Reports</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
