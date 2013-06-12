@@ -9,7 +9,7 @@ Start a project and build your website!
 10x10 Grid
 ------
 
-<table border="1" cellpadding="1" cellspacing="10" style="height:900px; width:900px;font-size:12px;">
+<table border="1" style="height:900px; width:900px;font-size:12px;">
 	<tbody>
 		<tr>
 			<td>Projects</td>
