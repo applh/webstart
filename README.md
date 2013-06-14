@@ -8,39 +8,14 @@ Start a project and build your website!
 
 10x10 Grid
 ------
-
-<table border="1" style="height:900px; width:900px;font-size:12px;">
+<table border="1" style="height:900px; width:900px">
 	<tbody>
 		<tr>
 			<td>Projects</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td>Objectives</td>
-			<td>Actors</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td>Media</td>
-			<td>Risks</td>
-			<td>Reports</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
+			<td>Public</td>
 			<td>&nbsp;</td>
 			<td>Design</td>
 			<td>&nbsp;</td>
@@ -48,69 +23,93 @@ Start a project and build your website!
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
+			<td>Objectives</td>
+			<td>Actors</td>
 			<td>Tasks</td>
-			<td>Steps</td>
-			<td>Docs</td>
 			<td>&nbsp;</td>
-			<td>Public</td>
-			<td>&nbsp;</td>
+			<td>News</td>
 			<td>&nbsp;</td>
 			<td>Creation</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td></td>
-			<td>Inspiration</td>
-			<td></td>
-			<td>&nbsp;</td>
 			<td>Integration</td>
+			<td>Validation</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Media</td>
+			<td>Risks</td>
+			<td>Steps</td>
+			<td>&nbsp;</td>
+			<td>Inspiration</td>
+			<td>&nbsp;</td>
+			<td>Publication</td>
+			<td>Monitoring</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>Pages</td>
-			<td>Navigation</td>
-			<td>Layout</td>
+			<td>Costs</td>
+			<td>Reports</td>
+			<td>Docs</td>
 			<td>&nbsp;</td>
 			<td>Concurrents</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
-			<td>Validation</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>Pages</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>Home</td>
-			<td>Keywords</td>
+			<td>Navigation</td>
 			<td>Colors</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
-			<td>Publication</td>
+			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>Form</td>
-			<td>Standards</td>
-			<td>Technos</td>
+			<td>Layout</td>
+			<td>Fonts</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
-			<td>Monitoring</td>
 			<td>&nbsp;</td>
-			<td></td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
+			<td>Keywords</td>
+			<td>Standards</td>
+			<td>Technos</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
