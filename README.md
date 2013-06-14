@@ -8,6 +8,8 @@ Start a project and build your website!
 10x10 Grid
 ------
 
+* The project complexity should always stand in a 10x10 Grid (100%).
+
 <table border="1" style="height:900px; width:900px">
 	<tbody>
 		<tr>
@@ -132,6 +134,14 @@ Start a project and build your website!
 		</tr>
 	</tbody>
 </table>
+
+DOCS Specifications
+------
+
+The documentation should cover all these topics.
+* 1 Page => 1 slide in HD format (1280x720)
+* => At least 30 slides
+* => Maximum of 100 slides
 
 WireFrame Model
 ------
