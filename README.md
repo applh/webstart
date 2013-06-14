@@ -19,9 +19,9 @@ Start a project and build your website!
 			<td>&nbsp;</td>
 			<td><strong>Public</strong></td>
 			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
 			<td><strong>Planning</strong></td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -31,10 +31,10 @@ Start a project and build your website!
 			<td>&nbsp;</td>
 			<td>News</td>
 			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
 			<td>20%</td>
 			<td>40%</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>Media</td>
@@ -43,10 +43,10 @@ Start a project and build your website!
 			<td>&nbsp;</td>
 			<td>Inspiration</td>
 			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
 			<td>60%</td>
 			<td>80%</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>Costs</td>
@@ -55,9 +55,9 @@ Start a project and build your website!
 			<td>&nbsp;</td>
 			<td>Concurrents</td>
 			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
 			<td>100%</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
