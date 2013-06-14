@@ -5,19 +5,19 @@ Start a project and build your website!
 
 <img src="https://docs.google.com/drawings/d/1IvLvx_fKCyM5IzptBDnAFquSE8X5WwjcXmrGhb6CIN4/pub?w=960&amp;h=720">
 
-
 10x10 Grid
 ------
+
 <table border="1" style="height:900px; width:900px">
 	<tbody>
 		<tr>
-			<td>Projects</td>
+			<td><strong>Projects</strong></td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
-			<td>Public</td>
+			<td><strong>Public</strong></td>
 			<td>&nbsp;</td>
-			<td>Design</td>
+			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
@@ -29,9 +29,9 @@ Start a project and build your website!
 			<td>&nbsp;</td>
 			<td>News</td>
 			<td>&nbsp;</td>
-			<td>Creation</td>
-			<td>Integration</td>
-			<td>Validation</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
@@ -41,8 +41,8 @@ Start a project and build your website!
 			<td>&nbsp;</td>
 			<td>Inspiration</td>
 			<td>&nbsp;</td>
-			<td>Publication</td>
-			<td>Monitoring</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -71,11 +71,11 @@ Start a project and build your website!
 			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td>Pages</td>
+			<td><strong>Pages</strong></td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
-			<td>&nbsp;</td>
+			<td><strong>Design</strong></td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
@@ -87,9 +87,9 @@ Start a project and build your website!
 			<td>Navigation</td>
 			<td>Colors</td>
 			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
+			<td>Creation</td>
+			<td>Integration</td>
+			<td>Validation</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
@@ -99,8 +99,8 @@ Start a project and build your website!
 			<td>Layout</td>
 			<td>Fonts</td>
 			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
+			<td>Publication</td>
+			<td>Monitoring</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
