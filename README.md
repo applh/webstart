@@ -5,7 +5,7 @@ Start a project and build your website!
 
 <img src="https://docs.google.com/drawings/d/1IvLvx_fKCyM5IzptBDnAFquSE8X5WwjcXmrGhb6CIN4/pub?w=960&amp;h=720">
 
-10x10 Grid
+10x10 Organisation Grid
 ------
 
 * The project complexity should always stand in a 10x10 Grid (100%).
