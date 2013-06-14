@@ -133,7 +133,14 @@ Start a project and build your website!
 	</tbody>
 </table>
 
-====== KaiZen by CCube ======
+WireFrame Model
+------
+
+[WIREFRAME](https://googledrive.com/host/0BxDBS7EaaokRRnBVQV85V1lsT3c/)
+![WIREFRAME](https://docs.google.com/drawings/d/141vQC0R2yMRJY2Ap6c_mTe9YkcfiueaRrSxYmSfF7AU/pub?w=800)
+
+KaiZen by CCube
+------
 
   * Incremental Method to fulfill creative projects.
 
