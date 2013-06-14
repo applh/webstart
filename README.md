@@ -135,7 +135,7 @@ Start a project and build your website!
 	</tbody>
 </table>
 
-DOCS Specifications
+10x10 DOCS Specifications
 ------
 
 The documentation should cover all these topics.
@@ -143,7 +143,7 @@ The documentation should cover all these topics.
 * => At least 30 slides
 * => Maximum of 100 slides
 
-WireFrame Model
+10x10 WireFrame Model
 ------
 
 * [WIREFRAME](https://googledrive.com/host/0BxDBS7EaaokRRnBVQV85V1lsT3c/)
