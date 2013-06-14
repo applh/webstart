@@ -17,9 +17,9 @@ Start a project and build your website!
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
-			<td><>Public</strong></td>
+			<td><strong>Public</strong></td>
 			<td>&nbsp;</td>
-			<td><>Planning</strong></td>
+			<td><strong>Planning</strong></td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
