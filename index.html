@@ -10,6 +10,24 @@
 </style>
    </head>
    <body>
-<h1>TIM EST EN VACANCES</h1>
+   <div>
+<h1 id="greeting">TIM</h1>
+<script type="text/javascript" src="lib/dojo/dojo.js" data-dojo-config="async: true"></script>
+<script type="text/javascript">
+require( ["dojo/dom", "dojo/fx", "dojo/domReady!"], 
+         function(dom, fx){
+    // The piece we had before...
+    var greeting = dom.byId("greeting");
+    greeting.innerHTML += " EST EN VACANCES";
+ 
+    // ...but now, with an animation!
+    fx.slideTo({
+        top: 100,
+        left: 200,
+        node: greeting
+    }).play();
+});
+</script>
+   </div>
  </body>
 </html>
