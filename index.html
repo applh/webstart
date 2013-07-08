@@ -2,7 +2,9 @@
 <html>
    <head>
 <title>WEB*START</title>
-
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <link href="lib/dojox/mobile/themes/iphone/iphone.css" rel="stylesheet"></link>
+    
 <style>
 </style>
 <!--CUSTOM-->
@@ -10,12 +12,77 @@
 </style>
    </head>
    <body>
-   <div>
-<h1 id="greeting">TIM</h1>
-<script type="text/javascript" src="lib/dojo/dojo.js" data-dojo-config="async: true"></script>
+		<div id="settings" data-dojo-type="dojox.mobile.View" data-dojo-props="selected: true">
+			<h1 data-dojo-type="dojox.mobile.Heading">Settings</h1>
+			<ul data-dojo-type="dojox.mobile.RoundRectList">
+				<li data-dojo-type="dojox.mobile.ListItem" data-dojo-props="icon:'res/images/i-icon-1.png'">
+					LINH
+					<div class="mblItemSwitch" data-dojo-type="dojox.mobile.Switch"></div>
+				</li>
+				<li data-dojo-type="dojox.mobile.ListItem" data-dojo-props="icon:'res/images/i-icon-2.png', rightText:'mac', moveTo: 'general'">
+					TIM
+				</li>
+				<li data-dojo-type="dojox.mobile.ListItem" data-dojo-props="icon:'res/images/i-icon-3.png', rightText:'AcmePhone'">
+					ANH
+				</li>
+			</ul>
+		</div>
+
+		<div id="general" data-dojo-type="dojox.mobile.View">
+			<h1 data-dojo-type="dojox.mobile.Heading" data-dojo-props="back:'Settings', moveTo:'settings'">General</h1>
+			<ul data-dojo-type="dojox.mobile.RoundRectList">
+				<li data-dojo-type="dojox.mobile.ListItem" data-dojo-props="moveTo:'about'">
+					VACANCES
+				</li>
+				<li data-dojo-type="dojox.mobile.ListItem" data-dojo-props="rightText: '1h 00min', moveTo: 'about'">
+					TABLETTE
+				</li>
+			</ul>
+		</div>
+
+		<div id="about" data-dojo-type="dojox.mobile.View">
+			<h1 data-dojo-type="dojox.mobile.Heading" data-dojo-props="back:'General', moveTo:'general'">About</h1>
+			<h2 data-dojo-type="dojox.mobile.RoundRectCategory">Generic Mobile Device</h2>
+			<ul data-dojo-type="dojox.mobile.RoundRectList">
+				<li data-dojo-type="dojox.mobile.ListItem" data-dojo-props="rightText:'AcmePhone'">
+					Network
+				</li>
+				<li data-dojo-type="dojox.mobile.ListItem" data-dojo-props="rightText:'AcmePhone'">
+					Line
+				</li>
+				<li data-dojo-type="dojox.mobile.ListItem" data-dojo-props="rightText:'1024'">
+					Songs
+				</li>
+				<li data-dojo-type="dojox.mobile.ListItem" data-dojo-props="rightText:'10'">
+					Videos
+				</li>
+				<li data-dojo-type="dojox.mobile.ListItem" data-dojo-props="rightText:'96'">
+					Photos
+				</li>
+				<li data-dojo-type="dojox.mobile.ListItem" data-dojo-props="rightText:'2'">
+					Applications
+				</li>
+				<li data-dojo-type="dojox.mobile.ListItem" data-dojo-props="rightText:'29.3 BG'">
+					Capacity
+				</li>
+				<li data-dojo-type="dojox.mobile.ListItem" data-dojo-props="rightText:'28.0 BG'">
+					Available
+				</li>
+				<li data-dojo-type="dojox.mobile.ListItem" data-dojo-props="rightText:'3.0 (7A341)'">
+					Version
+				</li>
+			</ul>
+		</div>
+<div>
+<script type="text/javascript" src="lib/dojo/dojo.js" data-dojo-config="async: 1"></script>
 <script type="text/javascript">
+require(["dojox/mobile/parser", "dojox/mobile", "dojox/mobile/deviceTheme", "dojox/mobile/compat", "dojo/domReady!"],
+   function(parser) {
+      parser.parse();
+});
 require( ["dojo/dom", "dojo/fx", "dojo/domReady!"], 
          function(dom, fx){
+            /*
     // The piece we had before...
     var greeting = dom.byId("greeting");
     greeting.innerHTML += " EST EN VACANCES";
@@ -26,7 +93,10 @@ require( ["dojo/dom", "dojo/fx", "dojo/domReady!"],
         left: 200,
         node: greeting
     }).play();
+    */
 });
+
+
 </script>
    </div>
  </body>
